@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: jhd3.ansible_role_selinux }
+         - { role: cyberitas.ansible_role_selinux }
 
 License
 -------
