@@ -1,5 +1,6 @@
 galaxy_info:
   author: James Dugger
+  role_name: selinux
   description: Configure Selinux on RHEL/CentOS
   company: Cyberitas Technologies, LLC
   license: license (MIT)
